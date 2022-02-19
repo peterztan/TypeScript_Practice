@@ -1,0 +1,31 @@
+{
+  "name": "typescript_practice",
+  "version": "1.0.0",
+  "description": "CS practice in typescript",
+  "main": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterztan/TypeScript_Practice.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "CS",
+    "Interview",
+    "Prep"
+  ],
+  "author": "Peter Z. Tan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/peterztan/TypeScript_Practice/issues"
+  },
+  "homepage": "https://github.com/peterztan/TypeScript_Practice#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3",
+    "typescript": "^4.5.5"
+  }
+}
